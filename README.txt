@@ -3,3 +3,5 @@
 FIRST COMMIT
 
 UPDATE message
+
+update README
