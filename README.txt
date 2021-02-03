@@ -4,4 +4,4 @@ common contents
 
 slave1 branch file
 
-slave1 date 2020-02-03
+slave1 update file
