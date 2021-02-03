@@ -1,11 +1,5 @@
 ## README
 
-FIRST COMMIT
+slave1 branch file
 
-UPDATE message
-
-new date 2021-02-02
-
-this branch name is slave1
-
-update slave1 file
+slave1 date 2020-02-03
